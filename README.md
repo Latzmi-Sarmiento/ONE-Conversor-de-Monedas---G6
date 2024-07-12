@@ -80,12 +80,14 @@ Pasos para el desarrollo:
 * Registros con marca de tiempo
 
 
-Ejecución del proyecto:
+##_Ejecución del proyecto:
 - Clona el repositorio desde GitHub.
 - Importa el proyecto en IntelliJ IDEA.
 - Configura las dependencias y ajusta la configuración.
 - Ejecuta la clase Principal para iniciar la aplicación.
 
+
+### Insignia Exclusiva para este Challenge - Entregado
 ![Latzmi_Badge-Conversor](https://github.com/user-attachments/assets/9b269dda-f581-4a83-a46d-613badd5433e)
 
 Email: latzmisarmiento@gmail.com
