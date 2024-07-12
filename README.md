@@ -87,6 +87,7 @@ Ejecución del proyecto:
 - Configura las dependencias y ajusta la configuración.
 - Ejecuta la clase Principal para iniciar la aplicación.
 
+![Badge-Conversor](https://github.com/user-attachments/assets/25e15939-2ea1-41b7-9406-58e4dfdfc481)
 
 Email: latzmisarmiento@gmail.com
 
