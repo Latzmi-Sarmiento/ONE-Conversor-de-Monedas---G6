@@ -61,4 +61,5 @@ Ejecución del proyecto:
 - Ejecuta la clase Principal para iniciar la aplicación.
 
 Email: latzmisarmiento@gmail.com
+
 Autor: Latzmi Sarmiento Palomino
