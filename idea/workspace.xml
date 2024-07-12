@@ -11,22 +11,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/Captura.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/Captura.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/Captura2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/Captura2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/Captura3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/Captura3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/Captura5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/ExchangePostman.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/Video.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/captura.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/ejecucion.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/json.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/json.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/json2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/json2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/images/packageconversion.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/registros_data_time.json" beforeDir="false" afterPath="$PROJECT_DIR$/registros_data_time.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/adapters/LocalDateTimeAdapter.java" beforeDir="false" />
