@@ -38,7 +38,12 @@ Pasos para el desarrollo:
 - Utilizar Gson para parsear y manejar datos JSON
 
 8. Selección de las monedas
-- Seleccionar las monedas de interés (COP, USD, BRL, ARS)
+- Se seleccionan las monedas utilizando la biblioteca Gson. Los códigos de moneda utilizados en este proyecto son:
+
+* COP - Peso colombiano
+* USD - Dólar estadounidense
+* BRL - Real brasileño
+* ARS - Peso argentino
 
 9. Convertir Valores
 - Implementar la lógica para convertir valores entre monedas
@@ -59,6 +64,7 @@ Ejecución del proyecto:
 - Importa el proyecto en IntelliJ IDEA.
 - Configura las dependencias y ajusta la configuración.
 - Ejecuta la clase Principal para iniciar la aplicación.
+
 
 Email: latzmisarmiento@gmail.com
 
