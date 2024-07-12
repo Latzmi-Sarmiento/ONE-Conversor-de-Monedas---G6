@@ -87,7 +87,7 @@ Ejecución del proyecto:
 - Configura las dependencias y ajusta la configuración.
 - Ejecuta la clase Principal para iniciar la aplicación.
 
-![Badge-Conversor](https://github.com/user-attachments/assets/25e15939-2ea1-41b7-9406-58e4dfdfc481)
+![Latzmi_Badge-Conversor](https://github.com/user-attachments/assets/9b269dda-f581-4a83-a46d-613badd5433e)
 
 Email: latzmisarmiento@gmail.com
 
