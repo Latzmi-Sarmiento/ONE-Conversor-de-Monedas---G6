@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5314b3c0-05e2-4a3e-982c-3a18d43fdc36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Alura_Challenge_Conversor_de_Moneda.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/Captura.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/Captura.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/Captura2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/Captura2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/Captura3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/Captura3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/Captura5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/ExchangePostman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/Video.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/captura.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/ejecucion.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/json.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/json.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/json2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/json2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/images/packageconversion.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/registros_data_time.json" beforeDir="false" afterPath="$PROJECT_DIR$/registros_data_time.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/adapters/LocalDateTimeAdapter.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nandojmj/Alura_Challenge_Conversor_de_Moneda.git&quot;,
+    &quot;accountId&quot;: &quot;20fe4d49-3b3b-499f-aa9f-4c6e0811326b&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/conversion/ConversionResponse.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2isyChihTblf1Fjt18YDF4DfZNU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Principal.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Challenge_Conversor de Monedas/Alura_Challenge_Conversor_de_Moneda",
+    "onboarding.tips.debug.path": "D:/Conversor de Monedas/Conversor de Monedas/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "fileTemplates"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="Alura_Challenge_Conversor_de_Moneda" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5314b3c0-05e2-4a3e-982c-3a18d43fdc36" name="Changes" comment="" />
+      <created>1720293473413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720293473413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+      </list>
+    </option>
+    <option name="COLUMN_ID_VISIBILITY">
+      <map>
+        <entry key="Table.Default.Author.ColumnIdVisibility" value="true" />
+        <entry key="Table.Default.Hash.ColumnIdVisibility" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MY_COMMITS" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/recursos/gson-2.10.1.jar!/com/google/gson/JsonObject.class</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
