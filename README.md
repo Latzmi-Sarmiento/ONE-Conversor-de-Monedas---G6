@@ -52,8 +52,7 @@ Pasos para el desarrollo:
 
 
 8. Selección de las monedas
-   
-  Las monedas seleccionadas en este proyecto son:
+- Las monedas seleccionadas en este proyecto son:
 
 * COP - Peso colombiano
 * USD - Dólar estadounidense
