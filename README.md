@@ -51,9 +51,8 @@ Pasos para el desarrollo:
 - Utilizar Gson para parsear y manejar datos JSON
 
 
-8. Selección de las monedas
-
-Las monedas seleccionadas en este proyecto son:
+8. Monedas seleccionadas
+   
 * COP - Peso colombiano
 * USD - Dólar estadounidense
 * BRL - Real brasileño
