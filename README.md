@@ -10,8 +10,7 @@ El conversor de monedas es un proyecto en Java desarrollado para la especializac
 
 Pasos para el desarrollo:
   
-1. Configuración Inicial
-Herramientas necesarias
+1. Herramientas necesarias
 - IntelliJ IDEA Community Edition
 - JDK
 - Biblioteca Gson
@@ -20,37 +19,30 @@ Herramientas necesarias
 - Trello 
 
 2. API y Autenticación
-Investigación de la API:
-Analizar la documentación de la API Exchange Rate-API.
-Configurar la clave de acceso necesaria para realizar las consultas.
+# Investigación de la API:
+- Analizar la documentación de la API Exchange Rate-API.
+- Configurar la clave de acceso necesaria para realizar las consultas.
 
 3. Manejo de Solicitudes y Respuestas
-Implementación de HTTP:
-Establecer HttpClient para gestionar las solicitudes hacia la API.
-Configurar HttpRequest para personalizar las peticiones según las necesidades del proyecto.
-Procesar HttpResponse para recibir y manejar las respuestas adecuadamente.
+# Implementación de HTTP:
+- Establecer HttpClient para gestionar las solicitudes hacia la API.
+- Configurar HttpRequest para personalizar las peticiones según las necesidades del proyecto.
+- Procesar HttpResponse para recibir y manejar las respuestas adecuadamente.
 
 4. Análisis de Datos
-Trabajo con JSON:
-Emplear la biblioteca Gson para la conversión y manejo de datos JSON, facilitando la extracción de información relevante.
+- Trabajo con JSON: Emplear la biblioteca Gson para la conversión y manejo de datos JSON, facilitando la extracción de información relevante.
 
 5. Funcionalidades Principales
-Selección de Monedas:
-Soporte para las siguientes monedas: COP, USD, BRL, ARS.
-Conversión de Montos:
-Implementar la lógica que permite la conversión entre las diferentes monedas seleccionadas.
+- Selección de Monedas: COP, USD, BRL, ARS.
+- Conversión de Montos: Implementar la lógica que permite la conversión entre las diferentes monedas seleccionadas.
 
 6. Interacción con el Usuario
-Interfaz de Consola:
-Crear un sistema de interacción a través de la consola, donde los usuarios pueden elegir opciones y ver resultados de manera intuitiva.
+- Interfaz de Consola:Crear un sistema de interacción a través de la consola, donde los usuarios pueden elegir opciones y ver resultados de manera intuitiva.
 
 7. Documentación del Proyecto
-Elaboración del README:
-Desarrollar un archivo README que contenga información clara sobre el funcionamiento del proyecto, guías de instalación y uso.
+- Elaboración del README: Desarrollar un archivo README que contenga información clara sobre el funcionamiento del proyecto, guías de instalación y uso.
 
-8. Mejoras y Funcionalidades Adicionales
-Opciones Extra:
-Implementar características como     
+8. Mejoras y Funcionalidades Adicionales    
 * Historial de conversiones
 * Soporte para la conversión de más monedas
 * Registros con marca de tiempo
@@ -65,6 +57,6 @@ Ejecuta la clase principal para iniciar la aplicación y acceder a la interfaz d
 ### Insignia Exclusiva de Completado para este Challenge 
 ![Latzmi_Badge-Conversor](https://github.com/user-attachments/assets/9b269dda-f581-4a83-a46d-613badd5433e)
 
-Email: latzmisarmiento@gmail.com
 
+Email: latzmisarmiento@gmail.com
 Autor: Latzmi Sarmiento Palomino
