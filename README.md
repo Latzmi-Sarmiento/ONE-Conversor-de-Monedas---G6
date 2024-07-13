@@ -12,7 +12,7 @@ Pasos para el desarrollo:
 
 Pasos para el desarrollo:
 1. Entorno de Programación:
-- IntelliJ IDEA Community Edition:
+- IntelliJ IDEA:
 Es un entorno de desarrollo integrado (IDE) que facilita la programación en Java. Debes instalarlo para crear y gestionar tu proyecto de manera eficiente.
 
 - JDK (Java Development Kit):
@@ -32,64 +32,59 @@ Trello es una aplicación de gestión de proyectos que permite organizar tareas 
 
 
 2. Conocer la API
-   
-- Utilizar la API Exchange Rate-API
-- Obtener y configurar la clave API
+- Utilizar la API Exchange Rate-API:
+Es fundamental estudiar la documentación de la API para comprender cómo realizar solicitudes y qué datos se pueden obtener. Esta API proporciona tasas de cambio actualizadas que se utilizarán en la conversión de monedas.
 
+- Obtener y configurar la clave API:
+Registrarse en el sitio de la API para obtener una clave de acceso es un paso necesario. Esta clave se usará en las solicitudes para autenticar el acceso a los datos.
 
 3. Importar Gson en IntelliJ
-
-- Añadir la biblioteca Gson desde Maven Repository (versión 2.10.1)
-
+- Añadir la biblioteca Gson desde Maven Repository (versión 2.10.1):
+Para utilizar Gson en tu proyecto, debes incluirlo como una dependencia en el archivo pom.xml de Maven. Esto asegurará que la biblioteca esté disponible durante el desarrollo.
 
 4. Construir el Cliente para Solicitudes (HttpClient)
-   
-- Configurar HttpClient para realizar solicitudes a la API
-
+- Configurar HttpClient para realizar solicitudes a la API:
+HttpClient es la clase que permite hacer solicitudes HTTP. Debes configurarlo para establecer conexiones seguras y enviar peticiones a la API de tasas de cambio.
 
 5. Construir la Solicitud (HttpRequest)
-   
-- Configurar HttpRequest para personalizar las solicitudes
-
+- Configurar HttpRequest para personalizar las solicitudes:
+HttpRequest te permite definir el método HTTP, la URL y otros parámetros de la solicitud. Es esencial personalizarlo para que se ajuste a los requisitos de la API.
 
 6. Construir la Respuesta (HttpResponse)
-   
-- Gestionar las respuestas recibidas de la API usando HttpResponse
-
+- Gestionar las respuestas recibidas de la API usando HttpResponse:
+HttpResponse te proporciona la respuesta del servidor. Debes implementar la lógica necesaria para manejar esta respuesta, incluyendo el código de estado y el cuerpo de la respuesta.
 
 7. Analizar la respuesta JSON
-   
-- Utilizar Gson para parsear y manejar datos JSON
-
+- Utilizar Gson para parsear y manejar datos JSON:
+Después de recibir la respuesta en formato JSON, usar Gson para convertir estos datos en objetos Java es crucial para poder manipular la información fácilmente.
 
 8. Monedas seleccionadas
-   
-* COP - Peso colombiano
+* COP - Peso colombiano,
 * USD - Dólar estadounidense
 * BRL - Real brasileño
-* ARS - Peso argentino
-
-
+* ARS - Peso argentino:
+  
 9. Convertir Valores
-    
-- Implementar la lógica para convertir valores entre monedas
-
+- Implementar la lógica para convertir valores entre monedas:
+Desarrollar la funcionalidad que permite al usuario ingresar una cantidad en una moneda y obtener el equivalente en otra. Esto implica utilizar las tasas de cambio obtenidas de la API.
 
 10. Interactuar con el usuario
-    
-- Crear una interfaz de consola para la interacción
-
+- Crear una interfaz de consola para la interacción:
+Desarrollar una interfaz basada en consola que permita al usuario seleccionar opciones y ver resultados. Debe ser intuitiva y fácil de usar.
 
 11. Crear un README
-
-- Documentar el proyecto en Github
-
+- Documentar el proyecto en GitHub:
+El README debe incluir una descripción del proyecto, instrucciones de instalación, uso y cualquier otra información relevante. Esto es esencial para que otros desarrolladores entiendan tu trabajo.
 
 12. Funcionalidades adicionales del Conversor de Monedas
-    
-* Historial de conversiones
-* Soporte para la conversión de más monedas
-* Registros con marca de tiempo
+- Historial de conversiones:
+Implementar una función que registre y muestre un historial de conversiones realizadas por el usuario, mejorando la experiencia de uso.
+
+- Soporte para la conversión de más monedas:
+Añadir opciones para incluir otras monedas en futuras implementaciones, ampliando la funcionalidad del conversor.
+
+- Registros con marca de tiempo:
+Incluir la capacidad de registrar cuándo se realizaron las conversiones, lo que puede ser útil para auditorías o análisis.
 
 
 Ejecución del proyecto:
