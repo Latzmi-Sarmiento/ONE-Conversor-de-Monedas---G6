@@ -5,6 +5,7 @@
 [![Static Badge](https://img.shields.io/badge/API-Exchange_Rate_API-%23e90000?style=flat)](https://www.exchangerate-api.com/docs/java-currency-api)
 [![Static Badge](https://img.shields.io/badge/test-status-%23009929?logo=github)](#)
 [![Static Badge](https://img.shields.io/badge/license-MIT-blue)](#)
+
 El conversor de monedas es un proyecto en Java desarrollado para la especialización Back-End G6 de Alura - Oracle Next Education. Su objetivo es permitir la conversión de valores entre distintas monedas utilizando tasas de cambio actualizadas obtenidas de una API. El usuario puede seleccionar las monedas de origen y destino, y especificar el monto a convertir. El programa se conecta a la API, obtiene la tasa de cambio actual y realiza la conversión, mostrando el resultado al usuario.
 
 Pasos para el desarrollo:
