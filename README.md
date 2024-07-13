@@ -58,7 +58,6 @@ Pasos para el desarrollo:
 * Registros con marca de tiempo
 
 Ejecución del proyecto:
-##_Ejecución del proyecto:
 - Clona el repositorio desde GitHub.
 - Importa el proyecto en IntelliJ IDEA.
 - Configura las dependencias y ajusta la configuración.
