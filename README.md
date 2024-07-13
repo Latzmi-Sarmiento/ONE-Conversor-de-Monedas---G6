@@ -12,13 +12,23 @@ Pasos para el desarrollo:
 
 Pasos para el desarrollo:
 1. Entorno de Programación:
-   
-- IntelliJ IDEA Community Edition
-- JDK
-- Biblioteca Gson
-- Git y GitHub
-- Postman
-- Trello 
+- IntelliJ IDEA Community Edition:
+Es un entorno de desarrollo integrado (IDE) que facilita la programación en Java. Debes instalarlo para crear y gestionar tu proyecto de manera eficiente.
+
+- JDK (Java Development Kit):
+Es necesario tener el JDK instalado para compilar y ejecutar aplicaciones Java. Asegúrate de usar una versión adecuada (17 o superior) para compatibilidad.
+
+- Biblioteca Gson:
+Gson es una biblioteca que permite la conversión de objetos Java a formato JSON y viceversa. Es crucial para manejar la respuesta de la API en este proyecto.
+
+- Git y GitHub:
+Git es un sistema de control de versiones que ayuda a gestionar el código fuente. GitHub es una plataforma que permite alojar tus repositorios. Es importante para la colaboración y seguimiento del progreso del proyecto.
+
+- Postman:
+Postman es una herramienta que facilita la prueba de APIs. Se utiliza para enviar solicitudes y verificar las respuestas de la API Exchange Rate-API antes de implementarlas en el código.
+
+- Trello:
+Trello es una aplicación de gestión de proyectos que permite organizar tareas y hacer seguimiento del progreso. Es útil para planificar el desarrollo y asignar responsabilidades.
 
 
 2. Conocer la API
