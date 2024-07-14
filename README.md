@@ -26,7 +26,7 @@ El conversor de monedas es un proyecto en Java desarrollado para la especializac
    
 4. **Documentación**: Documenta el proyecto en GitHub incluyendo instrucciones de uso, dependencias y una descripción del funcionamiento del conversor de monedas en un README.
    
-5. **Funciones Extra**: Añade funcionalidades como un <code>historial de conversiones</code>, <code>soporte para más monedas</code> y <code>registros con marcas de tiempo</code> para mejorar la experiencia del usuario.
+5. **Funciones Extra**: Opcionalmene puedes añadir funcionalidades como un <code>historial de conversiones</code>, <code>soporte para más monedas</code> y <code>registros con marcas de tiempo</code> para mejorar la experiencia del usuario.
 
 ## 🚀 Cómo Ejecutar el Proyecto
 Para ejecutar el proyecto, sigue estos pasos:
